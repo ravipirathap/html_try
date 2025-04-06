@@ -105,6 +105,7 @@ nav ul li a:hover {
   display: flex;
   gap: 15px;
   margin: 20px 0;
+  justify-content: space-evenly;
 }
 
 .social-icons img {
@@ -137,7 +138,7 @@ nav ul li a:hover {
 
 /* About Section */
 .about, .projects, .skills, .contact {
-  padding: 20px;
+  padding: 60px 20px;
   text-align: center;
 }
 
